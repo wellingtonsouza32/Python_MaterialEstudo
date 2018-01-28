@@ -1,0 +1,8 @@
+a = input('digite o que deseja ser analisado')
+print ('É númerico?',a.isnumeric())
+print('É alfanumérico?',a.isalnum())
+print('È maiuscula',a.isupper())
+print('É minusucula',a.islower())
+print('Tem espaço?',a.isspace())
+print('tem somente letras?',a.isalpha())
+print('está capitalizada',a.istitle())

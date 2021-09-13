@@ -1,2 +1,2 @@
-#vtnc
+
 print ('olá mundo')
